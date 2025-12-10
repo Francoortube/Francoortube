@@ -48,4 +48,4 @@ Programador web junior enfocado en el Backend, con conocimientos sólidos en la 
    
    🏅 Programación con PHP y MySQL - Nivel Avanzado(UTN) | (24 de Septiembre de 2025)
    
-   💬 Programación con Python Nivel Intermedio (En Curso)(UTN) | (Inicio: 30 de Septiembre de 2025)
+   🏅 Programación con Python Nivel Intermedio (UTN) | (8 de Diciembre de 2025)
